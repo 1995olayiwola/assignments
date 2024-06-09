@@ -108,7 +108,7 @@ By implementing a comprehensive testing strategy, software engineers can identif
 
 
 
-Levels of Software Testing
+Levels of Software Testing:
 Software development involves a multi-layered testing approach to ensure a high-quality final product. Here's a breakdown of the four main levels of testing:
 
 Unit Testing:
@@ -141,7 +141,7 @@ Reduced Risk: Thorough testing reduces the risk of software failures after deplo
 Compliance: Testing helps ensure the software meets industry standards and regulations.
 By investing in a robust testing strategy, software development teams can deliver high-quality, user-friendly software that meets its intended purpose.
 
-Version Control Systems (VCS)
+Version Control Systems (VCS):
 Version control systems (VCS) are crucial tools for managing changes to software code throughout the development process.  Here's a quick overview:
 
 Function: VCS track changes made to code files, allowing developers to revert to previous versions if necessary.
@@ -153,7 +153,7 @@ Branching & Merging: Enables developers to work on different features or bug fix
 Popular VCS tools include Git, Subversion, Mercurial, and others. These tools offer features for tracking changes, resolving conflicts, and managing code branches.
 
 
-Version Control Systems (VCS)
+Version Control Systems (VCS):
 Version control systems (VCS) are software tools that act like a digital filing cabinet for your code. They track every change made to your codebase over time, allowing you to:
 
 See who modified what and when
@@ -177,7 +177,7 @@ Mercurial: Another distributed VCS similar to Git, but with a slightly different
 Features: Efficient branching and merging, good for large codebases.
 These are just a few examples, and the best VCS for a project depends on specific needs and preferences.
 
-Software Project Management
+Software Project Management:
 Software project management is the process of planning, organizing, and controlling software development projects from inception to completion. It involves activities like:
 
 Requirements gathering and analysis: Defining the project goals and functionalities.
@@ -188,7 +188,7 @@ Progress tracking and reporting: Monitoring project progress and addressing any 
 Effective software project management helps ensure projects are delivered on time, within budget, and meet the desired quality standards.
 
 
-Software Project Manager: The Orchestrator of Success
+Software Project Manager: 
 A software project manager is the backbone of a successful software development project. They act as the central figure, overseeing the entire lifecycle from conception to completion. Their role is multifaceted, encompassing various responsibilities and requiring them to navigate a complex landscape of challenges.
 
 Key Responsibilities:
